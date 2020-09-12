@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-apache2 law/
+web: vendor/bin/heroku-php-apache2
